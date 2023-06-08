@@ -1,2 +1,2 @@
-## Other popular projects
-* [UX-Aspects] (https://uxaspects.github.io/UXAspects/#/landing)
+### Other popular projects
+* [UX-Aspects](https://uxaspects.github.io/UXAspects/#/landing)
